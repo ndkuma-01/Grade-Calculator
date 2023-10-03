@@ -1,2 +1,2 @@
 # Grade-Calculator
-A JavaFX Swing grade calculator.
+A Javax Swing grade calculator.
